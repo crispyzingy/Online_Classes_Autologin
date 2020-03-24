@@ -12,16 +12,16 @@ browser = webdriver.Firefox()  # comment out if you want to mute
 url = "https://whiteboard.myperfectice.com/b/"
 link_end = {
     "se": "man-k42-kfr",
-    "ml": "sum-khm-khr",
-    "spcc": "pra-rrq-gww",
+    "ml": "sum-kw9-2v4",
+    "spcc": "pra-gxf-cke",
     "css": "ash-cxx-ch6",
     "dwm": "atu-zzw-ecw",
 }
 
 # address = link_end["se"]
-# address = link_end["ml"]
+address = link_end["ml"]
 # address = link_end["spcc"]
-address = link_end["css"]
+# address = link_end["css"]
 # address = link_end["dwm"]
 
 
